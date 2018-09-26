@@ -1,7 +1,9 @@
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+
 [![Build Status](https://dev.azure.com/ceciliafcarter/SampleCalc/_apis/build/status/ceeceecarter.calculator)](https://dev.azure.com/ceciliafcarter/SampleCalc/_build/latest?definitionId=1)
 
 [![Build Status](https://anborton.visualstudio.com/GitHubCalc/_apis/build/status/AnthonyBorton.calculator)](https://anborton.visualstudio.com/GitHubCalc/_build/latest?definitionId=15)
