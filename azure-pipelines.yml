@@ -17,3 +17,9 @@ steps:
     npm run build
     npm test
   displayName: 'npm install and build'
+ 
+- task: PublishTestResults@2 
+  displayName: 'Publish Test Results' 
+  condition: succeededOrFailed() 
+  inputs: 
+    testResultsFiles: 'out/test-results.xml' 
